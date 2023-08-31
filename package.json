@@ -14,7 +14,7 @@
   "author": "Lucian Boca <lucian.boca@consensys.net>",
   "license": "ISC",
   "dependencies": {
-    "dotenv": "^8.2.0",
+    "dotenv": "^16.3.1",
     "ethers": "^5.0.7",
     "solc": "^0.6.12",
     "web3": "^1.2.11"
